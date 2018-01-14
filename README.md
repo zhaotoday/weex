@@ -16,5 +16,5 @@
 - [Weex 中的 virtual-DOM 介绍](https://yq.aliyun.com/articles/59179)
 - [Weex 相关文章收集](https://github.com/weexteam/article/issues)
 
-## 视频教程
+## 视频
 - [WEEX免费视频教程-从入门到放肆 (共17集)](http://jspang.com/2017/07/12/weex/)
