@@ -1,12 +1,18 @@
 ## 网站
 - [Weex 官网](http://weex.apache.org/cn/)
 - [Weex 官网中国镜像](https://weex-project.io)
-
-## 资源
+- [weexteam](https://github.com/weexteam)
 - [Weex Plugins](https://github.com/weex-plugins)
 - [Weex Market](https://market.dotwe.org/#15)
+- [Weex Playground App](https://weex.apache.org/cn/tools/playground.html)
+- [在线编写代码](http://dotwe.org/vue/)
+
+## 资源
 - [weex-ui](https://github.com/alibaba/weex-ui)
 - [awesome-weex](https://github.com/joggerplus/awesome-weex)
+- [weex-toolkit](https://github.com/weexteam/weex-toolkit)
+- [weex-devtool](https://github.com/weexteam/weex-devtool)
+- [weex-loader](https://github.com/weexteam/weex-loader)
 
 ## 文章
 - [网易严选 App 感受 Weex 开发](https://github.com/zwwill/blog/issues/3)
