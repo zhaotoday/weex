@@ -16,6 +16,7 @@
 - [weex-loader](https://github.com/weexteam/weex-loader)
 
 ## 文章
+- [什么是 Rax，以及 Rax 的特点](https://alibaba.github.io/rax/blog/whats-rax)
 - [网易严选 App 感受 Weex 开发](https://github.com/zwwill/blog/issues/3)
 - [基于weex的考拉移动端动态化方案](https://juejin.im/post/5a534b64518825732d7f725e)
 - [WEEX免费视频教程-从入门到放肆](http://jspang.com/2017/07/12/weex/)
