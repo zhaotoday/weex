@@ -1,6 +1,7 @@
 ## 网站
 - [Weex 官网](http://weex.apache.org/cn/)
 - [Weex 官网中国镜像](https://weex-project.io)
+- [Rax 官网](https://alibaba.github.io/rax/)
 - [在线编写代码](http://dotwe.org/vue/)
 - [Weex Playground App](https://weex.apache.org/cn/tools/playground.html)
 - [weexteam](https://github.com/weexteam)
