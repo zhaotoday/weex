@@ -1,11 +1,11 @@
 ## 网站
 - [Weex 官网](http://weex.apache.org/cn/)
 - [Weex 官网中国镜像](https://weex-project.io)
+- [在线编写代码](http://dotwe.org/vue/)
+- [Weex Playground App](https://weex.apache.org/cn/tools/playground.html)
 - [weexteam](https://github.com/weexteam)
 - [Weex Plugins](https://github.com/weex-plugins)
 - [Weex Market](https://market.dotwe.org/#15)
-- [Weex Playground App](https://weex.apache.org/cn/tools/playground.html)
-- [在线编写代码](http://dotwe.org/vue/)
 
 ## 资源
 - [weex-ui](https://github.com/alibaba/weex-ui)
