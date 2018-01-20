@@ -15,6 +15,6 @@
 - [可能是史上最全的weex踩坑攻略](https://www.jianshu.com/p/497f1a9ff33f)
 - [Weex 中的 virtual-DOM 介绍](https://yq.aliyun.com/articles/59179)
 - [Weex 相关文章收集](https://github.com/weexteam/article/issues)
-
+- [Weex 中别具匠心的 JS Framework](https://www.jianshu.com/p/edaf0448df01)
 ## 视频
 - [WEEX免费视频教程-从入门到放肆 (共17集)](http://jspang.com/2017/07/12/weex/)
