@@ -8,6 +8,7 @@
 - [Weex Market](https://market.dotwe.org/#15)
 
 ## 资源
+- [vue-snippets](https://github.com/Hanks10100/vue-snippets)
 - [weex-ui](https://github.com/alibaba/weex-ui)
 - [awesome-weex](https://github.com/joggerplus/awesome-weex)
 - [weex-toolkit](https://github.com/weexteam/weex-toolkit)
